@@ -6,6 +6,10 @@ I use AtCoder because they support Clojure solutions and that they are near my t
 
 This is an experiment for me to learn Clojure and to see how far I can go with it in Competitive Programming.
 
+I am **not** a competitive programmer, so I am not aiming to be the best, but to learn and have fun.
+
+The difficulty rating is based on my own opinion and may not apply to you.
+
 ## Problems solved
 
 ### [Practice Contest](https://atcoder.jp/contests/practice)
