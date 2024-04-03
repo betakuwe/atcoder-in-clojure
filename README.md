@@ -26,3 +26,4 @@ The difficulty rating is based on my own opinion and may not apply to you.
 | [ABC081A - Placing Marbles](https://atcoder.jp/contests/abs/tasks/abc081_a) | [abc081_a.clj](src/contests/abs/tasks/abc081_a.clj) | ☆☆☆☆☆ Trivial math           |
 | [ABC081B - Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b)      | [abc081_b.clj](src/contests/abs/tasks/abc081_b.clj) | ★☆☆☆☆ Simple binary math     |
 | [ABC087B - Coins](https://atcoder.jp/contests/abs/tasks/abc087_b)           | [abc087_b.clj](src/contests/abs/tasks/abc087_b.clj) | ★★☆☆☆ DP coin change problem |
+| [ABC083B - Some Sums](https://atcoder.jp/contests/abs/tasks/abc083_b)       | [abc083_b.clj](src/contests/abs/tasks/abc083_b.clj) | ★☆☆☆☆ Simple math            |
