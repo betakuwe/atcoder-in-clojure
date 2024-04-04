@@ -6,7 +6,8 @@
 (defn daydream [s]
   (letfn [(match-word [s w]
             (if (and (seq s) (every? true? (map = s w)))
-              (drop (count w) s)))
+              (drop (count w) s)
+              nil))
 
           (match-words [s]
             (if (seq s)
@@ -15,9 +16,11 @@
                          (let [match (match-word s w)]
                            (if (some? match)
                              (reduced match)
-                             s))))
+                             s))
+                         nil))
                      s
-                     (map reverse ["dream" "dreamer" "erase" "eraser" nil]))))]
+                     (map reverse ["dream" "dreamer" "erase" "eraser" nil]))
+             nil))]
 
     (->> (reverse s)
          (iterate match-words)
