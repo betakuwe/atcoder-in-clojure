@@ -5,7 +5,7 @@
 
 (defn daydream [s]
   (letfn [(match-word [s w]
-            (when (and (seq s) (every? true? (map = s w)))
+            (when (every? true? (map = s w))
               (drop (count w) s)))
 
           (match-words [s]
@@ -25,4 +25,4 @@
          last
          (#(if (empty? %) "YES" "NO")))))
 
-;(println (daydream (read-line)))
+(println (daydream (read-line)))
