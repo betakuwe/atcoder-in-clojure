@@ -18,3 +18,6 @@
 (set! *warn-on-reflection* true)
 
 (require '[clojure.string :as str])
+
+(comment
+  (str/join nil))
