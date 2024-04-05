@@ -32,3 +32,9 @@ The difficulty rating is based on my own opinion and may not apply to you.
 | [ABC085C - Otoshidama](https://atcoder.jp/contests/abs/tasks/abc085_c)        | [abc085_c.clj](src/contests/abs/tasks/abc085_c.clj) | ★★☆☆☆ Tricky math to get O(1)  |
 | [ABC049C - Daydream](https://atcoder.jp/contests/abs/tasks/arc065_a)          | [arc065_a.clj](src/contests/abs/tasks/arc065_a.clj) | ★☆☆☆☆ Simple string processing |
 | [ABC086C - Traveling](https://atcoder.jp/contests/abs/tasks/arc089_a)         | [arc089_a.clj](src/contests/abs/tasks/arc089_a.clj) | ★☆☆☆☆ Some tricky 2D math      |
+
+### [AtCoder Beginner Contest 347](https://atcoder.jp/contests/abc347)
+
+| Problem                                                            | Solution                                               | Difficulty       |
+|--------------------------------------------------------------------|--------------------------------------------------------|------------------|
+| [A - Divisible](https://atcoder.jp/contests/abc347/tasks/abc347_a) | [abc347_a.clj](src/contests/abc347/tasks/abc347_a.clj) | ☆☆☆☆☆ Trivial IO |
