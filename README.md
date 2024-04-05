@@ -31,3 +31,4 @@ The difficulty rating is based on my own opinion and may not apply to you.
 | [ABC085B - Kagami Mochi](https://atcoder.jp/contests/abs/tasks/abc085_b)      | [abc085_b.clj](src/contests/abs/tasks/abc085_b.clj) | ☆☆☆☆☆ Trivial                  |
 | [ABC085C - Otoshidama](https://atcoder.jp/contests/abs/tasks/abc085_c)        | [abc085_c.clj](src/contests/abs/tasks/abc085_c.clj) | ★★☆☆☆ Tricky math to get O(1)  |
 | [ABC049C - Daydream](https://atcoder.jp/contests/abs/tasks/arc065_a)          | [arc065_a.clj](src/contests/abs/tasks/arc065_a.clj) | ★☆☆☆☆ Simple string processing |
+| [ABC086C - Traveling](https://atcoder.jp/contests/abs/tasks/arc089_a)         | [arc089_a.clj](src/contests/abs/tasks/arc089_a.clj) | ★☆☆☆☆ Some tricky 2D math      |
