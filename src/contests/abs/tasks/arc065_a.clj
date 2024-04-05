@@ -9,9 +9,9 @@
               (drop (count w) s)))
 
           (match-words [s]
-            (when (seq s)
+            (when (not-empty s)
              (reduce (fn [s w]
-                       (when (seq w)
+                       (when (not-empty w)
                          (let [match (match-word s w)]
                            (if (some? match)
                              (reduced match)
